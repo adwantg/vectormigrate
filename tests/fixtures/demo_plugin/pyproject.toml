@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling>=1.27.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "vectormigrate-demo-plugin"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.entry-points."vectormigrate.backends"]
+demo-plugin = "vectormigrate_demo_plugin:create_backend"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/vectormigrate_demo_plugin"]

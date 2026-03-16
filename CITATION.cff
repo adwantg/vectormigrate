@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Adwant"
+    given-names: "Goutam"
+    alias: "goutamadwant"
+title: "vectormigrate: Python-first tooling for safe embedding-model migration across vector retrieval systems"
+version: "1.0.0"
+date-released: "2026-03-15"
+url: "https://github.com/goutamadwant/vectormigrate"
+repository-code: "https://github.com/goutamadwant/vectormigrate"
+license: MIT
+keywords:
+  - python
+  - embeddings
+  - vector-migration
+  - rag

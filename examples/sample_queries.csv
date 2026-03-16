@@ -1,0 +1,3 @@
+query_id,text,relevance
+q1,"atomic cutovers","{""doc-2"": 3}"
+q2,"audited embedding migrations","{""doc-1"": 3}"

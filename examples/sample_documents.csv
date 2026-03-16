@@ -1,0 +1,3 @@
+doc_id,text,metadata
+doc-1,"Embedding migrations should be planned, audited, and benchmarked.","{""topic"": ""migration""}"
+doc-2,"OpenSearch aliases allow atomic cutovers during index transitions.","{""topic"": ""opensearch""}"
