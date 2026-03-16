@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="docs/logo.png" width="45" style="vertical-align: middle; margin-right: 10px;" alt="vectormigrate logo" />
+    <img src="https://raw.githubusercontent.com/adwantg/vectormigrate/main/docs/logo.png" width="45" style="vertical-align: middle; margin-right: 10px;" alt="vectormigrate logo" />
     vectormigrate
   </h1>
   <p><em>Python-first tooling for safe embedding-model migration across vector retrieval systems.</em></p>
@@ -128,7 +128,7 @@ manifest = export_run_artifact_bundle(
 3. **Compatibility plane**: Mathematical projections and confidence-gated routing.
 4. **Evaluation plane**: Offline metrics (`Recall@k`, `nDCG@k`), shadow hooks.
 
-![Migration Architecture Flow](docs/diagrams/readme_flow.png)
+![Migration Architecture Flow](https://raw.githubusercontent.com/adwantg/vectormigrate/main/docs/diagrams/readme_flow.png)
 
 ### Supported Live Backends
 The library includes native adapters to safely orchestrate migrations on the following engines:
@@ -141,14 +141,14 @@ The library includes native adapters to safely orchestrate migrations on the fol
 ---
 
 ## 📖 Deep Dive Documentation
-- [Architecture & First Principles](docs/architecture.md)
-- [Formal System Math Model](docs/paper_system_model.md)
-- [Code Examples](docs/examples.md)
+- [Architecture & First Principles](https://github.com/adwantg/vectormigrate/blob/main/docs/architecture.md)
+- [Formal System Math Model](https://github.com/adwantg/vectormigrate/blob/main/docs/paper_system_model.md)
+- [Code Examples](https://github.com/adwantg/vectormigrate/blob/main/docs/examples.md)
 
 ---
 
 ## 🤝 Contributing & Security
 We welcome contributions! Please see:
-- [`CONTRIBUTING.md`](CONTRIBUTING.md)
-- [`SECURITY.md`](SECURITY.md)
-- [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)
+- [`CONTRIBUTING.md`](https://github.com/adwantg/vectormigrate/blob/main/CONTRIBUTING.md)
+- [`SECURITY.md`](https://github.com/adwantg/vectormigrate/blob/main/SECURITY.md)
+- [`CODE_OF_CONDUCT.md`](https://github.com/adwantg/vectormigrate/blob/main/CODE_OF_CONDUCT.md)

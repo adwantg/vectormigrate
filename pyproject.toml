@@ -45,10 +45,10 @@ integration = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/goutamadwant/vectormigrate"
-Repository = "https://github.com/goutamadwant/vectormigrate"
-Issues = "https://github.com/goutamadwant/vectormigrate/issues"
-Documentation = "https://github.com/goutamadwant/vectormigrate/tree/main/docs"
+Homepage = "https://github.com/adwantg/vectormigrate"
+Repository = "https://github.com/adwantg/vectormigrate"
+Issues = "https://github.com/adwantg/vectormigrate/issues"
+Documentation = "https://github.com/adwantg/vectormigrate/tree/main/docs"
 
 [project.scripts]
 vectormigrate = "vectormigrate.cli:main"
