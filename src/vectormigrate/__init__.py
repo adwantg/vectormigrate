@@ -1,6 +1,6 @@
 """vectormigrate public package exports."""
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 from vectormigrate.artifacts import export_run_artifact_bundle, validate_artifact_bundle
 from vectormigrate.benchmarks import (
