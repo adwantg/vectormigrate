@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - 2026-03-16
+
+### Fixed
+
+- updated `README.md` image and file links to use absolute GitHub URLs to fix broken PyPI resources
+- corrected repository URLs in `pyproject.toml` pointing to the wrong default username
+
 ## [1.0.0] - 2026-03-15
 
 ### Added
